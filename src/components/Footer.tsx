@@ -4,7 +4,7 @@ import { Github, Linkedin, Mail, Shield } from 'lucide-react'; // Added UserCog
 const Footer: React.FC = () => {
   const socialLinks = [
     { icon: <Github size={20} />, href: 'https://github.com/jayveer0710', label: 'GitHub' },
-    { icon: <Linkedin size={20} />, href: 'https://www.linkedin.com/in/jayveer0710/', label: 'LinkedIn' },
+    { icon: <Linkedin size={20} />, href: 'https://www.linkedin.com/in/jayveer-vasava-93779038b/', label: 'LinkedIn' },
     { icon: <Mail size={20} />, href: 'mailto:jayveer00433@gmail.com', label: 'Email' },
   ];
 

@@ -6,7 +6,7 @@ const About: React.FC = () => {
     {
       icon: <Linkedin className="text-[#0077B5]" size={24} />,
       name: "LinkedIn",
-      url: "https://www.linkedin.com/in/akshay7311/"
+      url: "https://www.linkedin.com/in/jayveer-vasava-93779038b/"
     },
     {
       icon: <Github className="text-[#333]" size={24} />,
@@ -43,7 +43,7 @@ const About: React.FC = () => {
         <path d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-5.214-6.817L4.99 21.75H1.68l7.73-8.835L1.254 2.25H8.08l4.713 6.231zm-1.161 17.52h1.833L7.084 4.126H5.117z"/>
       </svg>,
       name: "Twitter",
-      url: "https://x.com/Akshay7311_"
+      url: "https://x.com/"
     }
   ];
 
@@ -52,7 +52,7 @@ const About: React.FC = () => {
       title: "Introduction to Cybersecurity",
       issuer: "Cisco",
       date: "2025",
-      url: "https://www.credly.com/badges/791deaee-fde3-4549-8fc0-9f789b44ed11/linked_in_profile",
+      url: "https://www.coursera.org/verify/791deaee-fde3-4549-8fc0-9f789b44ed11",
       downloadUrl: "/Documents/Introduction to Cybersecurity.pdf"
     }
   ];
