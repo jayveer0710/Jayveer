@@ -6,7 +6,7 @@ const Resume: React.FC = () => {
     // Create a link element
     const link = document.createElement('a');
     link.href = '/Documents/resume.pdf'; // The PDF file in the public directory
-    link.download = 'Akshay_Jadav_Resume.pdf';
+    link.download = 'Jayveer_Vasava_Resume.pdf';
     document.body.appendChild(link);
     link.click();
     document.body.removeChild(link);
@@ -32,7 +32,7 @@ const Resume: React.FC = () => {
           </button>
           
           <a 
-            href="https://github.com/Akshay7311" 
+            href="https://github.com/jayveer0710" 
             target="_blank" 
             rel="noopener noreferrer"
             className="inline-flex items-center gap-2 px-6 py-3 border-2 border-black text-black rounded-md hover:bg-gray-100 transition-all-smooth hover:scale-105 hover:shadow-lg"

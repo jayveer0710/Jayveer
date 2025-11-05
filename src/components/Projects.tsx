@@ -13,14 +13,6 @@ type Project = {
 const Projects: React.FC = () => {
   const projects: Project[] = [
     {
-      title: "NetManager",
-      description: "A browser-based network scanner tool that provides detailed information about devices on your network.",
-      image: "https://images.pexels.com/photos/1181467/pexels-photo-1181467.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-      technologies: ["Python", "JavaScript", "HTML/CSS", "Flask"],
-      demo: "https://netmanager.netlify.app/",
-      github: "https://github.com/Akshay7311/NetManager"
-    },
-    {
       title: "Online Book Store",
       description: "A complete online bookstore with secure authentication and role-based access control.",
       image: "https://images.pexels.com/photos/270348/pexels-photo-270348.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
