@@ -93,7 +93,7 @@ Focused on practical penetration testing, application security,           </p>
             <div className="order-1 md:order-2 flex justify-center animate-on-scroll">
               <div className="w-80 h-80 overflow-hidden rounded-2xl border-4 border-white shadow-lg hover-lift animate-glow">
                 <img 
-                  src="/profile.jpg"
+                  src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWJkaWxwM3l4ZmFqaTE1OGRqamhnZHYxMWsxc3Y4ZHpvamJvc2xkYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dg/u2wg2uXJbHzkXkPphr/giphy.gif"
                   alt="Jayveer Vasava"
                   className="w-full h-full object-cover transition-all-smooth hover:scale-105"
                 />
